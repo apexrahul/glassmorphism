@@ -1,0 +1,41 @@
+body{
+   color:white;
+}
+
+.about-header{
+   padding:10px;
+   font-weight: 500;
+   font-size: 1.3rem;
+   font-style: italic;
+   border-bottom:1px solid var( --content-title-color);
+}
+
+.icons{
+   margin:30px;
+}
+.icons h5{
+   color:var(--inactive-color);
+   font-weight: 500;
+   font-size: 1rem;;
+   position: relative;
+   margin-bottom:10px;
+   text-align: left;
+   /* text-shadow: -1px -1px 0px rgba(255, 255, 255, 1),-12px -13px 18px rgba(255, 255, 255, 0.64); */
+}
+.icons p{
+   line-height: 2;
+   font-size:1.2rem;
+   text-align: left;
+   position: relative;
+   padding-left:1rem;
+}
+.icons p:hover{
+   border-radius: 20px;
+   background-color:transparent;
+   backdrop-filter: blur(20px);
+}
+
+.about-footer{
+   position: relative;
+   bottom:-1.5rem;
+}
