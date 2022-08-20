@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glassmorphism/static/css/main.a2a5a2f6.css",
+    "main.js": "/glassmorphism/static/js/main.eecfa477.js",
+    "index.html": "/glassmorphism/index.html",
+    "main.a2a5a2f6.css.map": "/glassmorphism/static/css/main.a2a5a2f6.css.map",
+    "main.eecfa477.js.map": "/glassmorphism/static/js/main.eecfa477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a5a2f6.css",
+    "static/js/main.eecfa477.js"
+  ]
+}
