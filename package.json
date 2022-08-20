@@ -1,6 +1,9 @@
 {
   "name": "keeper-project",
   "version": "0.1.0",
+  "engines":{
+    "node": "16.15.0"
+  },
   "homepage": "https://glassmorphism07.herokuapp.com/",
   "private": true,
   "dependencies": {
@@ -15,7 +18,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix chatting-api && npm run build --prefix chatting-api"
